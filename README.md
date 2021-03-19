@@ -1,3 +1,5 @@
+## Installation
+
 1. Unzip the project  
 2. Create a database of your own choice in mysql
 3. Update .env file by adding database information ( 
